@@ -1,0 +1,6 @@
+{
+  "name": "ZevraBot - Automated Multi-Exchange Futures Trading Platform",
+  "description": "Production-grade automated cryptocurrency futures trading platform with 20+ quantitative strategy engines, multi-tier risk governor, high-water-mark fee accounting, and 3-level referral distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
